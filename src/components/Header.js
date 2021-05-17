@@ -35,6 +35,7 @@ const Header = (props) => {
 					<span>SERIES</span>
 				</a>
 			</div>
+			<a className='login-btn'>Login</a>
 		</nav>
 	);
 };
