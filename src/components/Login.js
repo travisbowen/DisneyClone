@@ -9,9 +9,9 @@ const Login = (props) => {
 			<div className='content'>
 				<div className='bg-image' />
 				<div className='call-to-action'>
-					<img className='cta-logo1' alt='disney logo' src={logo} />
+					<img className='cta-logo1' alt='disney bundle 1' src={logo} />
 					<button className='cta-button'>GET THE DISNEY BUNDLE</button>
-					<img className='cta-logo2' alt='disney log2' src={logo2} />
+					<img className='cta-logo2' alt='disney bundle 2' src={logo2} />
 					<span className='cta-description'>
 						Sign up for Disney+ only. <br /> $7.99/month or $79.99/year.
 					</span>
